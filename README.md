@@ -2,16 +2,9 @@
 
 ## To Do:
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
-
+- [ ] Resume Page
+- [ ] Resume parser API
+- [ ] Color Scheme (Dark and Light Theme? maybe)
 
 # Getting Started with Create React App
 
@@ -19,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run: 
+In the project directory, you can run:
 
 ### `yarn start`
 
